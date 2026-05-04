@@ -1,0 +1,15 @@
+type: edu
+custom_name: Battle!
+files:
+  - name: src/minesweeper/Main.java
+    visible: true
+    learner_created: false
+  - name: test/MinesweeperTest.java
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/77/stages/430/implement#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Mon, 04 May 2026 05:58:48 UTC"
+record: -1
