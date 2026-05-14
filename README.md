@@ -43,3 +43,10 @@ For the "cascade" effect—where clicking an empty cell reveals a large safe are
 1. **Clone**: `git clone https://github.com/yourusername/minesweeper-java.git`
 2. **Compile**: `javac minesweeper/*.java`
 3. **Run**: `java minesweeper.Main`
+
+## License
+This project is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) License - see the LICENSE file for details.
+
+![Java](https://img.shields.io/badge/language-Java-orange)
+![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-blue)
+![AI-No-Training](https://img.shields.io/badge/AI-No--Training-red)
